@@ -1,37 +1,32 @@
-<!--
-**BhaveshKumarSharma/BhaveshkumarSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align="center">I am a Top Web Developer & AI Engineer</h3>
+<b>**Hey there! I'm an full stack developer and enthusiast of web development and programming with a solid skill set in React, NextJS, Angular, NodeJS, MongoDB. I'm also open to remote work, so feel free to contact me.**</b><img align="center" src="https://user-images.githubusercontent.com/106914208/213798287-746b0702-c178-4d5f-a19a-f44a03ac3465.gif" width="25" />
 
+</div>
 
-- 🌱 I’m currently working with **Next.js (14/13), Gen AI, Langchain, Azure, Node.js**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Boss930129](https://github.com/Boss930129)
+# 💫 About Me: <img align="center" src="https://user-images.githubusercontent.com/106914208/213806625-795bf34c-ff4c-47ec-a094-c2b538209d9e.gif" width="30" />
 
-- 💬 Ask me about **React, Next.js, Node.js, HTML5, CSS3, JavaScript, Redux, Angular **
+- 🌱 I’m currently mastering **Next.Js and React Native**
+
+- 💬 Ask me about **React Next.js Angular Node.js Express.js MERN MEAN and React Native Flutter**
 
 - 📫 How to reach me **boss930129@gmail.com**
 
+## Skills:
 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,angular,express,vite,nextjs,prisma,git,github,githubactions,mysql,mongodb,supabase,netlify,vercel,vscode,docker,cpp,java,python,linux" />
+  </a>
+  
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,styledcomponents,bootstrap,js,jquery,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,heroku,github,gitlab&perline=10)](https://skillicons.dev)
 
+### Still learning and improving my skills:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://curity.io/images/resources/tutorials/writing-clients/spa/next-js-oauth-agent.jpg" alt="next.js" width="80" height="40"/></a><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" alt="node.js" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" width="40" height="40"/>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/twbs.png" alt="bootstrap" width="40" height="40"/>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-9294852-7577995.png?f=webp" alt="tailwind css" width="40" height="40"/>
-</a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ts,react,angular,nodejs,jest,php,vue,next,threejs&perline=10)](https://skillicons.dev)
 
-
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devlancer0328&layout=compact&langs_count=8&theme=material-palenight"/>
