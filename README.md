@@ -23,7 +23,7 @@
   </a>
   
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,styledcomponents,bootstrap,js,jquery,ts,react,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,heroku,github,gitlab&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,styledcomponents,bootstrap,js,jquery,ts,react,angular,java,git,jest,nodejs,webpack,vite,vscode,eclipse,idea,figma,xd,ps,netlify,heroku,github,gitlab&perline=10)](https://skillicons.dev)
 
 ### Still learning and improving my skills:
 
