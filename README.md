@@ -14,7 +14,6 @@
 
 - 💬 Ask me about **React Next.js Angular Node.js Express.js MERN MEAN and React Native Flutter**
 
-- 📫 How to reach me **boss930129@gmail.com**
 
 ## Skills:
 
